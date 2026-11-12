@@ -13,7 +13,7 @@ Faço mestrado em Ciência da Computação na **UFC**, com pesquisa em *observab
 
 ### Destaques
 
-- 📄 **Quanto custa observar?** Artigo em coautoria que mede o overhead da stack Prometheus + Grafana + Loki + Jaeger via OpenTelemetry em microsserviços Spring Boot. Foram 180 execuções num desenho fatorial 2×3: **+23,1% na latência mediana e +58,5% no p99 sob carga alta**, com o throughput praticamente intacto.
+- 📄 **Quanto custa observar?** Artigo em coautoria (mestrado, UFC) que mede o overhead da stack Prometheus + Grafana + Loki + Jaeger via OpenTelemetry em microsserviços Spring Boot. Em 180 execuções num desenho fatorial 2×3, o overhead de latência foi significativo em todas as cargas e chegou a **+58,5% no p99 (+10 ms) sob carga alta**, com perda de vazão de no máximo 1,8%. [Código, dados e artigo](https://github.com/lucasameneses/observability-overhead-benchmark).
 - 🏫 **Plataforma educacional em produção:** backend de uma plataforma de ensino adaptativo com ~10 mil usuários e mais de 670 mil respostas processadas. Trabalhei em microsserviços de IA, pagamentos, RBAC e na instrumentação para análise de causa-raiz.
 
 ### Projetos
