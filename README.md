@@ -21,7 +21,7 @@ Faço mestrado em Ciência da Computação na **UFC**, com pesquisa em *observab
 | Projeto | Sobre |
 |---|---|
 | [microservices-failure-lab](https://github.com/lucasameneses/microservices-failure-lab) | Laboratório reproduzível do meu TCC (IFCE): quatro cenários de falha em microsserviços diagnosticados com métricas, logs e traces |
-| otel-overhead-benchmark *(em construção)* | Benchmark reproduzível do artigo sobre o overhead de observabilidade |
+| [observability-overhead-benchmark](https://github.com/lucasameneses/observability-overhead-benchmark) | Avaliação de desempenho (mestrado, UFC): quanto a stack de observabilidade custa em latência, vazão, CPU e memória a microsserviços Spring Boot, em 180 execuções com testes estatísticos |
 | llm-observability-lab *(em construção)* | Tracing de aplicações com LLMs e agentes usando as convenções GenAI do OpenTelemetry |
 
 ### Contato
